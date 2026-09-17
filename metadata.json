@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio",
+  "description": "질문을 통해 더 나은 답을 찾는 마케터 김드보라(Deborah Kim)의 포트폴리오. Ask Differently, Answer Better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
